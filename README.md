@@ -1,8 +1,5 @@
-### Olá! eu sou a Andresa Lídia 👋
-
-##
-
-
+## Olá! eu sou a Andresa Lídia
+  
 - 📝Estudante do IFMT
 - 💻 Técnico em Informática
 - 🐍 Aprendendo Python 
