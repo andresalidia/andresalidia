@@ -7,8 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresalidia&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-<div><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<div>
+  <br>
+  <img align="center" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fpt%2Flogo%2Fjava&psig=AOvVaw2RpGB1UdKwiEW6LLoqa0cT&ust=1709227565395000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCv6YHHzoQDFQAAAAAdAAAAABAI" />
 </div>
 
   
