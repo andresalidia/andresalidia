@@ -1,5 +1,5 @@
 ## Olá! eu sou a Andresa Lídia
-  
+- 👩🏿‍💻Estudante de Engenharia da Computação
 - 💻 Técnico em Informática
 <div>
   <a href="https://github.com/andresalidia">
