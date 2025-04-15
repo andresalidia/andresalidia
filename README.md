@@ -1,4 +1,7 @@
 ## Olá! eu sou a Andresa Lídia
+<div>
+  <img aling="center" src=""/>
+</div>
 - 👩🏿‍💻Estudante de Engenharia da Computação
 - 💻 Técnico em Informática
 <div>
@@ -10,9 +13,9 @@
 <div>
   <br>
   <img align="center" height="30" width="40" src="java.png" />
-  <img align="center" height="30" width="40" src="html.png" />
-  <img align="center" height="30" width="40" src="python.png" />
-  <img align="center" height="30" width="40" src="css.png" />
+  <img align="center" height="40" width="40" src="html5-removebg-preview.png" />
+  <img align="center" height="30" width="30" src="css-removebg-preview.png" />
+  <img align="center" height="30" width="40" src="python-removebg-preview.png" />
 
 
 </div>
