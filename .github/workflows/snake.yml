@@ -1,24 +1,28 @@
 name: Generate Snake Animation
 
 on:
+  # Gera a cobrinha automaticamente todos os dias às 00:00 UTC
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite UTC
+    - cron: "0 0 * * *"
+  # Permite rodar manualmente pela aba "Actions"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: andresalidia
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+          color_snake: '#40c463'
+          color_dots: '#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127'
 
       - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
