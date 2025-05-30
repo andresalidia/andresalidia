@@ -48,6 +48,7 @@
 ![Andresa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresalidia&show_icons=true&theme=radical&bg_color=0d1117&title_color=fca311&text_color=e5e5e5&icon_color=f72585)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresalidia&layout=compact&theme=radical&bg_color=0d1117&title_color=fca311&text_color=e5e5e5)
+![Grade](https://img.shields.io/badge/grade-A++-c47198?style=for-the-badge&logo=github)
 
 ![Snake animation](https://github.com/andresalidia/andresalidia/blob/output/github-contribution-grid-snake.svg)
 
