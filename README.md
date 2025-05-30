@@ -49,7 +49,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresalidia&layout=compact&theme=radical&bg_color=0d1117&title_color=fca311&text_color=e5e5e5)
 
-![GitHub Snake](https://github.com/andresalidia/andresalidia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/andresalidia/andresalidia/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
