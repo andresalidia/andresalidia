@@ -19,8 +19,8 @@ jobs:
           github_user_name: andresalidia
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: '#40c463'
-          color_dots: '#161b22,#0e4429,#006d32,#26a641,#39d353'
+          color_snake: '#c47198'
+          color_dots: '#2d2d2d,#6e4e5b,#a66c87,#ba83b0,#d3a0f7'
           color_background: '#0d1117'
 
       - name: Push Snake SVG to Output Branch
