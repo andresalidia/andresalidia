@@ -5,7 +5,7 @@
 
 ### 💫 Sobre mim
 - 🎓 Técnica em Informática  
-- 🎓 Graduanda em Engenharia da Computação  
+- 🎓 Acadêmica em Engenharia da Computação  
 - 💡 Apaixonada por programar e aprender novas tecnologias  
 - 📍 Brasil  
 
