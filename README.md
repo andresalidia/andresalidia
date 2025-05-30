@@ -50,15 +50,3 @@
 
 
 </div>
-
----
-
-### 🚀 Em breve...
-
-> Contribuindo com projetos open source e criando ainda mais soluções com tecnologia 💜
-
----
-
-<p align="center">
-  <img src="https://readme-visitor-badge.glitch.me/badge?page_id=andresalidia.andresalidia" alt="visitantes" />
-</p>
