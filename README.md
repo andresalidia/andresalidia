@@ -25,7 +25,7 @@
 - 🎓 Acadêmica em Engenharia da Computação  
 - 💡 Apaixonada por programar e aprender novas tecnologias  
 - 📍 Brasil  
-<img align= "right" src="andresa_anime.png" width="250" height="250">
+<img align= "right" src="andresa_anime.png" width="300" height="300">
  
 ---
 
@@ -45,15 +45,6 @@
 
 </div>
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresalidia)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresalidia&layout=compact&theme=radical&bg_color=0d1117&title_color=c47198&text_color=f8f8f2&icon_color=ba83b0&border_color=a66c87)
-![Snake animation](https://github.com/andresalidia/andresalidia/blob/output/github-contribution-grid-snake.svg)
-
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/andresalidia/andresalidia/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
