@@ -20,7 +20,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
           color_snake: '#c47198'
-          color_dots: '#2d2d2d,#6e4e5b,#a66c87,#ba83b0,#d3a0f7'
+          color_dots: '#0d1117,#6e4e5b,#a66c87,#ba83b0,#d3a0f7'
           color_background: '#0d1117'
 
       - name: Push Snake SVG to Output Branch
@@ -31,4 +31,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-theme: jekyll-theme-hacker
+   
