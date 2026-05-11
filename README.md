@@ -1,4 +1,10 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=andresalidia&color=ff69b4"><br>
+<div align="center">
+  <a href="https://github.com/andresalidia">
+    <img align="center" src="welcome.png" width="500">
+  </a>
+</div>
+<br>
 <h1 align="center">Oi 👋, eu sou a Andresa Lídia</h1>
 <h3 align="center">Sempre aprendendo porquê conhecimento nunca é de mais!</h3>
 
