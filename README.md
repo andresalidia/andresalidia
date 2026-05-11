@@ -1,7 +1,7 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=andresalidia&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/andresalidia">
-    <img align="center" src="welcome.png" width="500">
+    <img align="center" src="welcome.png">
   </a>
 </div>
 <br>
