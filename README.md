@@ -5,8 +5,22 @@
   </a>
 </div>
 <br>
-<h1 align="center">Oi 👋, eu sou a Andresa Lídia</h1>
-<h3 align="center">Sempre aprendendo porquê conhecimento nunca é de mais!</h3>
+<br>
+
+<div align="center">
+  <!-- Work Links -->
+  <a href="https://github.com/andresalidia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andresa-lídia/" target=_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href = "mailto:andresalidia1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  <a href="https://www.youtube.com/@andresa.lídia" target="_blank"><img src="https://img.shields.io/badge/@AndreinaOliveira-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+  <!-- Social Links -->
+  <a href="https://instagram.com/andresa.lidia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+</div>
+
 
 ---
 
