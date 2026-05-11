@@ -25,7 +25,8 @@
 - 🎓 Acadêmica em Engenharia da Computação  
 - 💡 Apaixonada por programar e aprender novas tecnologias  
 - 📍 Brasil  
-
+<img align= "right" src="andresa_anime.png" width="250" height="250">
+ 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -43,16 +44,6 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
-
----
-
-### 📂 Projetos em Destaque
-
-🔹 [Manipulação de Arquivo em Python](https://github.com/andresalidia/Manipulacao_Arquivo_Python)  
-> Repositório onde mostro minha evolução e prática com Python, especialmente na manipulação de arquivos.
-
-🔹 [Réplica do YouTube](https://github.com/andresalidia/Site-Youtube)  
-> Projeto de uma réplica estilizada do site do YouTube — ainda em construção!
 
 ---
 
