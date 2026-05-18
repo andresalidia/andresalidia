@@ -44,7 +44,7 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
-
+---
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=andresalidia&theme=monokai&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
